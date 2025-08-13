@@ -1,4 +1,4 @@
-# proyecto_2_extracci-n
+# proyecto_2_extraccion
 Análisis y extracción de datos de clientes para Store 1 | Python: funciones, bucles y condicionales
 
 # Proyecto: Análisis y Extracción de Datos de Clientes para Store 1
